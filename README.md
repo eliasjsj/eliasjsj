@@ -2,7 +2,7 @@
 - 👀 I’m interested in SAP Dev/WebDev/Cloud (GCP)
 - 🌱 I’m currently learning WebDev (HTML/CSS/Js)
 - 💞️ I’m looking to collaborate on Web Development and SAP Fiori(UI5)/BTP projects.
-- 📫 How to reach me: ej.santosjunior(at)gmail(dot)com.
+- 📫 How to reach me: elias(dot)jr(dot)dev(at)gmail(dot)com.
 
 <!---
 eliasjsj/eliasjsj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
